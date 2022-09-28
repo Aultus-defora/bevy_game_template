@@ -16,7 +16,7 @@ fn main() {
         .insert_resource(WindowDescriptor {
             width: 800.,
             height: 600.,
-            title: "Bevy game".to_string(), // ToDo
+            title: "Evercalled game".to_string(), // ToDo
             canvas: Some("#bevy".to_owned()),
             ..Default::default()
         })
